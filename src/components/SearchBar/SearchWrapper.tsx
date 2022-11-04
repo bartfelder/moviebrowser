@@ -7,9 +7,9 @@ const SearchWrapper = styled("div")(({ theme }) => ({
   "&:hover": {
     backgroundColor: alpha(theme.palette.common.black, 0.25),
   },
-  marginLeft: 'auto',
+  marginLeft: "auto",
   marginRight: "1rem",
-  width: '100%',
+  width: "100%",
   [theme.breakpoints.down("sm")]: {
     margin: "1rem",
   },

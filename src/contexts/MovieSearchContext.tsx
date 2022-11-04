@@ -18,7 +18,9 @@ interface MovieSearchContextProviderProps {
   children: ReactNode;
 }
 
-export const MovieSearchContextProvider = ({ children }: MovieSearchContextProviderProps) => {
+export const MovieSearchContextProvider = ({
+  children,
+}: MovieSearchContextProviderProps) => {
   const [searchTerm, setSearchTerm] = useState("");
 
   return (

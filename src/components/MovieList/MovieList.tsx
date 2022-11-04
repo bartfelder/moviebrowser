@@ -9,6 +9,7 @@ import { createRelatedMoviesQuery } from "../../requestHandlers/graphQL/searchRe
 import { createSearchMovieQuery } from "../../requestHandlers/graphQL/searchMovies";
 import LoadingIndicator from "../LoadingIndicator/LoadingIndicator";
 import Typography from "@mui/material/Typography";
+import Box from "@mui/material/Box";
 
 interface RawMovies {
   data?: {
@@ -48,7 +49,12 @@ const MovieList = () => {
 
   const { fetching, error } = response;
 
-  if (fetching) return <LoadingIndicator />;
+  if (fetching)
+    return (
+      <Box sx={{ display: "flex", justifyContent: "center", height: '80vh', alignItems: 'center' }}>
+        <LoadingIndicator />
+      </Box>
+    );
   if (error)
     return <Typography variant="h4">Oh, no... {error.message}</Typography>;
 
