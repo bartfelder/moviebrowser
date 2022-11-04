@@ -4,6 +4,8 @@ import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
 import Modal from "@mui/material/Modal";
 import Typography from "@mui/material/Typography";
+
+import LoadingIndicator from "../LoadingIndicator/LoadingIndicator";
 import { ModalContext } from "../../contexts/ModalContext";
 import {
   MovieDetailContext,
@@ -15,9 +17,9 @@ import {
   generateImdbUrl,
   generateOmdbQuery,
   generateWikiQuery,
+  generateWikiSearchUrl,
   generateWikiUrl,
 } from "../../utils/generateUrl";
-import LoadingIndicator from "../LoadingIndicator/LoadingIndicator";
 import { MovieSearchContext } from "../../contexts/MovieSearchContext";
 
 const MovieDetails = () => {
@@ -43,9 +45,7 @@ const MovieDetails = () => {
             )
           );
 
-          const ImdbId = omdbResponse.data.imdbID;
-          const imdbLink = generateImdbUrl(ImdbId);
-
+          const imdbLink = generateImdbUrl(omdbResponse.data.imdbID);
           const wikiPageInfo =
             wikiResponse.data.query.search.find(
               (page) => page.title === `${movieDetails.name} (film)`
@@ -55,7 +55,9 @@ const MovieDetails = () => {
             );
 
           const summary = wikiPageInfo?.snippet;
-          const wikiLink = generateWikiUrl(wikiPageInfo?.pageid || 0);
+          const wikiLink = wikiPageInfo?.pageid
+            ? generateWikiUrl(wikiPageInfo?.pageid)
+            : generateWikiSearchUrl(movieDetails.name);
 
           dispatch({
             type: MovieDetailsActionTypes.SET_EXTENDED_DETAILS,
@@ -104,6 +106,7 @@ const MovieDetails = () => {
       aria-describedby="modal-modal-description"
     >
       <Box sx={style}>
+        {error && <Typography variant="h4">Oh, no... {error}</Typography>}
         {isLoading ? (
           <LoadingIndicator />
         ) : (

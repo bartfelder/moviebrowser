@@ -1,10 +1,10 @@
 import { useContext, useEffect, useState } from "react";
+import Box from "@mui/material/Box";
 import IconButton from "@mui/material/IconButton";
 import SearchIcon from "@mui/icons-material/Search";
 import SearchWrapper from "./SearchWrapper";
 import SearchInput from "./SearchInput";
 import { MovieSearchContext } from "../../contexts/MovieSearchContext";
-import Box from "@mui/material/Box";
 
 const SearchBar = () => {
   const { searchTerm, setSearchTerm } = useContext(MovieSearchContext);

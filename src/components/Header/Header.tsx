@@ -1,5 +1,5 @@
-import Grid from "@mui/material/Grid";
 import AppBar from "@mui/material/AppBar";
+import Grid from "@mui/material/Grid";
 import Typography from "@mui/material/Typography";
 import SearchBar from "../SearchBar/SearchBar";
 
