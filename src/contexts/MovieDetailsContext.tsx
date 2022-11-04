@@ -1,5 +1,10 @@
-import { createContext, Dispatch, ReactNode, useReducer } from "react";
+import { createContext, Dispatch, useReducer } from "react";
 import type { MovieDetails } from "../utils/types";
+import {
+  MovieDetailsAction,
+  MovieDetailsActionTypes,
+  ProviderProps,
+} from "./contextTypes";
 
 const defaultMovieDetails: MovieDetails = {
   name: "",
@@ -18,20 +23,6 @@ export const MovieDetailContext =
 export const MovieDetailsDispatch = createContext<Dispatch<MovieDetailsAction>>(
   () => {}
 );
-
-interface MovieDetailProviderProps {
-  children: ReactNode;
-}
-
-export enum MovieDetailsActionTypes {
-  SET_BASE_DETAILS,
-  SET_EXTENDED_DETAILS,
-}
-
-interface MovieDetailsAction {
-  type: MovieDetailsActionTypes;
-  movie: Partial<MovieDetails>;
-}
 
 const movieDetailsReducer = (
   movieDetails: MovieDetails,
@@ -54,7 +45,7 @@ const movieDetailsReducer = (
   }
 };
 
-export const MovieDetailProvider = ({ children }: MovieDetailProviderProps) => {
+export const MovieDetailProvider = ({ children }: ProviderProps) => {
   const [movieDetails, dispatch] = useReducer(
     movieDetailsReducer,
     defaultMovieDetails

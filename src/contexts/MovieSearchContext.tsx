@@ -1,9 +1,5 @@
-import { createContext, useState, ReactNode } from "react";
-
-interface MovieSearchContextType {
-  searchTerm: string;
-  setSearchTerm: React.Dispatch<React.SetStateAction<string>>;
-}
+import { createContext, useState } from "react";
+import { MovieSearchContextType, ProviderProps } from "./contextTypes";
 
 const defaultMovieSearchContext = {
   searchTerm: "",
@@ -14,13 +10,7 @@ export const MovieSearchContext = createContext<MovieSearchContextType>(
   defaultMovieSearchContext
 );
 
-interface MovieSearchContextProviderProps {
-  children: ReactNode;
-}
-
-export const MovieSearchContextProvider = ({
-  children,
-}: MovieSearchContextProviderProps) => {
+export const MovieSearchContextProvider = ({ children }: ProviderProps) => {
   const [searchTerm, setSearchTerm] = useState("");
 
   return (

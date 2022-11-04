@@ -1,9 +1,5 @@
-import { createContext, useState, ReactNode } from "react";
-
-interface ModalContextType {
-  isOpen: boolean;
-  setIsOpen: React.Dispatch<React.SetStateAction<boolean>>;
-}
+import { createContext, useState } from "react";
+import { ModalContextType, ProviderProps } from "./contextTypes";
 
 const defaultModalContext = {
   isOpen: false,
@@ -13,11 +9,7 @@ const defaultModalContext = {
 export const ModalContext =
   createContext<ModalContextType>(defaultModalContext);
 
-interface ModalProviderProps {
-  children: ReactNode;
-}
-
-export const ModalProvider = ({ children }: ModalProviderProps) => {
+export const ModalProvider = ({ children }: ProviderProps) => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (

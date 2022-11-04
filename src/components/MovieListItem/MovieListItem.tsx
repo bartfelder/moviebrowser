@@ -5,10 +5,8 @@ import ListItemButton from "@mui/material/ListItemButton";
 import Typography from "@mui/material/Typography";
 import { ModalContext } from "../../contexts/ModalContext";
 import type { MovieData } from "../../utils/types";
-import {
-  MovieDetailsActionTypes,
-  MovieDetailsDispatch,
-} from "../../contexts/MovieDetailsContext";
+import { MovieDetailsDispatch } from "../../contexts/MovieDetailsContext";
+import { MovieDetailsActionTypes } from "../../contexts/contextTypes";
 
 const MovieListItem = ({ id, name, releaseDate, genres, score }: MovieData) => {
   const { setIsOpen } = useContext(ModalContext);

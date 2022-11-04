@@ -7,9 +7,9 @@ import Typography from "@mui/material/Typography";
 import { ModalContext } from "../../contexts/ModalContext";
 import {
   MovieDetailContext,
-  MovieDetailsActionTypes,
   MovieDetailsDispatch,
 } from "../../contexts/MovieDetailsContext";
+import { MovieDetailsActionTypes } from "../../contexts/contextTypes";
 import { WikiQueryResult, OmdbQueryResult } from "../../utils/types";
 import {
   generateImdbUrl,
