@@ -1,0 +1,2857 @@
+{
+  "data": {
+      "movies": [
+          {
+              "id": "414906",
+              "name": "The Batman",
+              "score": 7.714,
+              "genres": [
+                  {
+                      "name": "Crime",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Mystery",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Thriller",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "2022-03-01T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "886396",
+              "name": "Batman and Superman: Battle of the Super Sons",
+              "score": 8.023,
+              "genres": [
+                  {
+                      "name": "Animation",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Action",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Science Fiction",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "2022-10-17T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "272",
+              "name": "Batman Begins",
+              "score": 7.7,
+              "genres": [
+                  {
+                      "name": "Action",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Crime",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Drama",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "2005-06-10T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "268",
+              "name": "Batman",
+              "score": 7.2,
+              "genres": [
+                  {
+                      "name": "Fantasy",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Action",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Crime",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "1989-06-23T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "537056",
+              "name": "Batman: Hush",
+              "score": 7.238,
+              "genres": [
+                  {
+                      "name": "Action",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Animation",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Crime",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Mystery",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "2019-07-19T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "209112",
+              "name": "Batman v Superman: Dawn of Justice",
+              "score": 5.9,
+              "genres": [
+                  {
+                      "name": "Action",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Adventure",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Fantasy",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "2016-03-23T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "618353",
+              "name": "Batman: Death in the Family",
+              "score": 7.2,
+              "genres": [
+                  {
+                      "name": "Animation",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Action",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "2020-10-13T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "364",
+              "name": "Batman Returns",
+              "score": 6.889,
+              "genres": [
+                  {
+                      "name": "Action",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Fantasy",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "1992-06-19T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "366924",
+              "name": "Batman: Bad Blood",
+              "score": 7.203,
+              "genres": [
+                  {
+                      "name": "Science Fiction",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Action",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Animation",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "2016-08-04T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "415",
+              "name": "Batman & Robin",
+              "score": 4.323,
+              "genres": [
+                  {
+                      "name": "Science Fiction",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Action",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Comedy",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "1997-06-20T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "414",
+              "name": "Batman Forever",
+              "score": 5.397,
+              "genres": [
+                  {
+                      "name": "Action",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Crime",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Fantasy",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "1995-06-16T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "321528",
+              "name": "Batman vs. Robin",
+              "score": 7.196,
+              "genres": [
+                  {
+                      "name": "Science Fiction",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Action",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Adventure",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Animation",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "2015-04-14T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "324849",
+              "name": "The Lego Batman Movie",
+              "score": 7.203,
+              "genres": [
+                  {
+                      "name": "Animation",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Action",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Comedy",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Family",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "2017-02-08T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "45162",
+              "name": "Superman/Batman: Apocalypse",
+              "score": 7.204,
+              "genres": [
+                  {
+                      "name": "Science Fiction",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Action",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Adventure",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Animation",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Family",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "2010-09-28T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "736073",
+              "name": "Batman: The Long Halloween, Part One",
+              "score": 7.561,
+              "genres": [
+                  {
+                      "name": "Animation",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Mystery",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Action",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Crime",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "2021-06-21T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "382322",
+              "name": "Batman: The Killing Joke",
+              "score": 6.611,
+              "genres": [
+                  {
+                      "name": "Action",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Animation",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Crime",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Drama",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "2016-07-24T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "2661",
+              "name": "Batman",
+              "score": 6.292,
+              "genres": [
+                  {
+                      "name": "Family",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Adventure",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Comedy",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Science Fiction",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Crime",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "1966-07-30T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "736074",
+              "name": "Batman: The Long Halloween, Part Two",
+              "score": 7.527,
+              "genres": [
+                  {
+                      "name": "Animation",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Mystery",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Action",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Crime",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "2021-07-26T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "732450",
+              "name": "Batman: Soul of the Dragon",
+              "score": 6.963,
+              "genres": [
+                  {
+                      "name": "Animation",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Action",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Adventure",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Crime",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Fantasy",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "2021-01-12T00:00:00.000Z",
+              "__typename": "Movie"
+          },
+          {
+              "id": "242643",
+              "name": "Batman: Assault on Arkham",
+              "score": 7.373,
+              "genres": [
+                  {
+                      "name": "Thriller",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Animation",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Action",
+                      "__typename": "Genre"
+                  },
+                  {
+                      "name": "Crime",
+                      "__typename": "Genre"
+                  }
+              ],
+              "releaseDate": "2014-08-12T00:00:00.000Z",
+              "__typename": "Movie"
+          }
+      ]
+  },
+  "extensions": {
+      "tracing": {
+          "version": 1,
+          "startTime": "2022-11-06T09:09:58.138Z",
+          "endTime": "2022-11-06T09:09:58.689Z",
+          "duration": 551213886,
+          "execution": {
+              "resolvers": [
+                  {
+                      "path": [
+                          "movies"
+                      ],
+                      "parentType": "Query",
+                      "fieldName": "searchMovies",
+                      "returnType": "[Movie!]!",
+                      "startOffset": 8272334,
+                      "duration": 536382261
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          0,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 544733195,
+                      "duration": 12128
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 544760120,
+                      "duration": 3308
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          0,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 544769257,
+                      "duration": 3243
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          0,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 544780379,
+                      "duration": 7751
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          0,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 544806215,
+                      "duration": 3497
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          0,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 544824807,
+                      "duration": 1742
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          0,
+                          "genres",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 544835240,
+                      "duration": 1690
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          0,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 544844042,
+                      "duration": 2312
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          1,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 545112453,
+                      "duration": 5823
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 545127284,
+                      "duration": 3637
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          1,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 545135766,
+                      "duration": 2067
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          1,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 545144628,
+                      "duration": 5588
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          1,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 545160767,
+                      "duration": 2086
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          1,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 545172800,
+                      "duration": 2719
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          1,
+                          "genres",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 545183270,
+                      "duration": 3168
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          1,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 545192007,
+                      "duration": 2926
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          2,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 545330207,
+                      "duration": 5315
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 545341497,
+                      "duration": 2584
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          2,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 545351727,
+                      "duration": 2152
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          2,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 545360099,
+                      "duration": 4060
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          2,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 545377110,
+                      "duration": 1866
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          2,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 545388296,
+                      "duration": 1643
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          2,
+                          "genres",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 545398163,
+                      "duration": 1650
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          2,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 545406251,
+                      "duration": 1882
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          3,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 545529233,
+                      "duration": 27396
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          3,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 545564240,
+                      "duration": 2250
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          3,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 545571207,
+                      "duration": 3029
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          3,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 545579639,
+                      "duration": 7959
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          3,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 545599111,
+                      "duration": 2201
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          3,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 545611413,
+                      "duration": 2612
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          3,
+                          "genres",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 545622470,
+                      "duration": 1691
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          3,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 545630608,
+                      "duration": 2189
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          4,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 545762689,
+                      "duration": 5752
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          4,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 545774745,
+                      "duration": 2179
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          4,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 545782352,
+                      "duration": 1974
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          4,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 545790136,
+                      "duration": 4392
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          4,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 545804642,
+                      "duration": 1703
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          4,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 545815656,
+                      "duration": 1933
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          4,
+                          "genres",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 545825873,
+                      "duration": 2432
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          4,
+                          "genres",
+                          3,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 545836091,
+                      "duration": 2653
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          4,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 545844288,
+                      "duration": 2549
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          5,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 545969102,
+                      "duration": 4309
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          5,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 545979995,
+                      "duration": 2330
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          5,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 545987147,
+                      "duration": 1969
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          5,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 545994792,
+                      "duration": 4099
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          5,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 546008172,
+                      "duration": 1811
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          5,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 546019207,
+                      "duration": 1667
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          5,
+                          "genres",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 546028983,
+                      "duration": 1618
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          5,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 546036561,
+                      "duration": 1540
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          6,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 546152725,
+                      "duration": 4054
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          6,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 546163395,
+                      "duration": 2337
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          6,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 546169849,
+                      "duration": 3146
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          6,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 546178020,
+                      "duration": 3918
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          6,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 546191398,
+                      "duration": 1727
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          6,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 546202674,
+                      "duration": 2790
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          6,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 546210676,
+                      "duration": 2882
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          7,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 546326018,
+                      "duration": 4020
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          7,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 546336712,
+                      "duration": 2031
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          7,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 546343836,
+                      "duration": 2096
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          7,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 546351383,
+                      "duration": 5867
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          7,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 546366075,
+                      "duration": 1946
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          7,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 546377199,
+                      "duration": 1846
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          7,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 546385016,
+                      "duration": 1537
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          8,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 546499768,
+                      "duration": 4940
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          8,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 546510417,
+                      "duration": 3395
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          8,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 546518185,
+                      "duration": 2088
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          8,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 546525876,
+                      "duration": 4225
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          8,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 546539058,
+                      "duration": 1676
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          8,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 546550280,
+                      "duration": 1598
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          8,
+                          "genres",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 547857120,
+                      "duration": 8948
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          8,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 547879228,
+                      "duration": 3612
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          9,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 548083755,
+                      "duration": 7104
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          9,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548098966,
+                      "duration": 3590
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          9,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 548107250,
+                      "duration": 2080
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          9,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 548116330,
+                      "duration": 5819
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          9,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548134544,
+                      "duration": 2019
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          9,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548147086,
+                      "duration": 1600
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          9,
+                          "genres",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548157097,
+                      "duration": 2642
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          9,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 548165133,
+                      "duration": 3041
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          10,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 548299051,
+                      "duration": 4531
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          10,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548310638,
+                      "duration": 2155
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          10,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 548317658,
+                      "duration": 2315
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          10,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 548325745,
+                      "duration": 4178
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          10,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548340513,
+                      "duration": 1713
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          10,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548363892,
+                      "duration": 1882
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          10,
+                          "genres",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548373788,
+                      "duration": 1605
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          10,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 548381538,
+                      "duration": 1701
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          11,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 548511236,
+                      "duration": 4370
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          11,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548522559,
+                      "duration": 2293
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          11,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 548528879,
+                      "duration": 3452
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          11,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 548537310,
+                      "duration": 3708
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          11,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548550795,
+                      "duration": 3085
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          11,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548563001,
+                      "duration": 2125
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          11,
+                          "genres",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548573069,
+                      "duration": 1763
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          11,
+                          "genres",
+                          3,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548583232,
+                      "duration": 1736
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          11,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 548591638,
+                      "duration": 1598
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          12,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 548713552,
+                      "duration": 4184
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          12,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548723270,
+                      "duration": 2976
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          12,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 548730196,
+                      "duration": 1874
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          12,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 548737955,
+                      "duration": 3740
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          12,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548751260,
+                      "duration": 1687
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          12,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548761945,
+                      "duration": 2575
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          12,
+                          "genres",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548772046,
+                      "duration": 2598
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          12,
+                          "genres",
+                          3,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548782628,
+                      "duration": 1818
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          12,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 548790315,
+                      "duration": 1588
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          13,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 548905149,
+                      "duration": 5220
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          13,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548916001,
+                      "duration": 2193
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          13,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 548922959,
+                      "duration": 2107
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          13,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 548930732,
+                      "duration": 3844
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          13,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548943835,
+                      "duration": 2143
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          13,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548955145,
+                      "duration": 1644
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          13,
+                          "genres",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548965500,
+                      "duration": 1718
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          13,
+                          "genres",
+                          3,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548975697,
+                      "duration": 2832
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          13,
+                          "genres",
+                          4,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 548986321,
+                      "duration": 1796
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          13,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 548993429,
+                      "duration": 2723
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          14,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 549130419,
+                      "duration": 5996
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          14,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 549142581,
+                      "duration": 2675
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          14,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 549150564,
+                      "duration": 2028
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          14,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 549158642,
+                      "duration": 4168
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          14,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 549176984,
+                      "duration": 659573
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          14,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 549879656,
+                      "duration": 7261
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          14,
+                          "genres",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 549898610,
+                      "duration": 2214
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          14,
+                          "genres",
+                          3,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 549910564,
+                      "duration": 2897
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          14,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 549922200,
+                      "duration": 3964
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          15,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 550108017,
+                      "duration": 6449
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          15,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550123223,
+                      "duration": 2355
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          15,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 550132122,
+                      "duration": 2288
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          15,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 550140683,
+                      "duration": 9772
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          15,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550161330,
+                      "duration": 3008
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          15,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550174922,
+                      "duration": 1786
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          15,
+                          "genres",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550185014,
+                      "duration": 1683
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          15,
+                          "genres",
+                          3,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550194974,
+                      "duration": 1785
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          15,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 550203222,
+                      "duration": 1774
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          16,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 550336330,
+                      "duration": 4746
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          16,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550348447,
+                      "duration": 2302
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          16,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 550354899,
+                      "duration": 3042
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          16,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 550363413,
+                      "duration": 5060
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          16,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550378522,
+                      "duration": 1739
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          16,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550390014,
+                      "duration": 2827
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          16,
+                          "genres",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550400998,
+                      "duration": 2011
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          16,
+                          "genres",
+                          3,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550411437,
+                      "duration": 2750
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          16,
+                          "genres",
+                          4,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550421296,
+                      "duration": 2482
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          16,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 550429133,
+                      "duration": 2831
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          17,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 550555152,
+                      "duration": 5072
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          17,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550566041,
+                      "duration": 2221
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          17,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 550573553,
+                      "duration": 1829
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          17,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 550580153,
+                      "duration": 4847
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          17,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550594552,
+                      "duration": 1656
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          17,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550605600,
+                      "duration": 1651
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          17,
+                          "genres",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550615330,
+                      "duration": 1608
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          17,
+                          "genres",
+                          3,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550625221,
+                      "duration": 2382
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          17,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 550633450,
+                      "duration": 1613
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          18,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 550754523,
+                      "duration": 4081
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          18,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550765741,
+                      "duration": 2082
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          18,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 550772731,
+                      "duration": 1972
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          18,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 550779509,
+                      "duration": 4681
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          18,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550793157,
+                      "duration": 3221
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          18,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550805493,
+                      "duration": 1641
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          18,
+                          "genres",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550815054,
+                      "duration": 1500
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          18,
+                          "genres",
+                          3,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550824763,
+                      "duration": 1574
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          18,
+                          "genres",
+                          4,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550834863,
+                      "duration": 2474
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          18,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 550842800,
+                      "duration": 1938
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          19,
+                          "id"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "id",
+                      "returnType": "ID!",
+                      "startOffset": 550961825,
+                      "duration": 4181
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          19,
+                          "name"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 550972868,
+                      "duration": 2424
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          19,
+                          "score"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "score",
+                      "returnType": "Float!",
+                      "startOffset": 550980179,
+                      "duration": 1956
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          19,
+                          "genres"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "genres",
+                      "returnType": "[Genre!]!",
+                      "startOffset": 550987116,
+                      "duration": 5666
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          19,
+                          "genres",
+                          0,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 551026578,
+                      "duration": 2951
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          19,
+                          "genres",
+                          1,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 551043596,
+                      "duration": 1807
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          19,
+                          "genres",
+                          2,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 551053516,
+                      "duration": 1575
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          19,
+                          "genres",
+                          3,
+                          "name"
+                      ],
+                      "parentType": "Genre",
+                      "fieldName": "name",
+                      "returnType": "String!",
+                      "startOffset": 551062921,
+                      "duration": 1538
+                  },
+                  {
+                      "path": [
+                          "movies",
+                          19,
+                          "releaseDate"
+                      ],
+                      "parentType": "Movie",
+                      "fieldName": "releaseDate",
+                      "returnType": "DateTime",
+                      "startOffset": 551070815,
+                      "duration": 1557
+                  }
+              ]
+          }
+      },
+      "cacheControl": {
+          "version": 1,
+          "hints": [
+              {
+                  "path": [
+                      "movies"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      0,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      1,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      2,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      3,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      4,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      5,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      6,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      7,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      8,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      9,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      10,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      11,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      12,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      13,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      14,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      15,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      16,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      17,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      18,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              },
+              {
+                  "path": [
+                      "movies",
+                      19,
+                      "genres"
+                  ],
+                  "maxAge": 0
+              }
+          ]
+      }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "batchcomplete": true,
+  "continue": {
+      "sroffset": 10,
+      "continue": "-||"
+  },
+  "query": {
+      "searchinfo": {
+          "totalhits": 18202,
+          "suggestion": "the bat man",
+          "suggestionsnippet": "the bat man"
+      },
+      "search": [
+          {
+              "ns": 0,
+              "title": "Batman",
+              "pageid": 4335,
+              "size": 198454,
+              "wordcount": 23618,
+              "snippet": "<span class=\"searchmatch\">Batman</span> is a superhero appearing in American comic books published by DC Comics. <span class=\"searchmatch\">The</span> character was created by artist Bob Kane and writer Bill Finger, and",
+              "timestamp": "2022-11-02T22:16:48Z"
+          },
+          {
+              "ns": 0,
+              "title": "The Batman (film)",
+              "pageid": 47200019,
+              "size": 339069,
+              "wordcount": 26958,
+              "snippet": "<span class=\"searchmatch\">The</span> <span class=\"searchmatch\">Batman</span> is a 2022 American superhero film based on <span class=\"searchmatch\">the</span> DC Comics character <span class=\"searchmatch\">Batman</span>. Produced by DC Films, 6th &amp; Idaho, and Dylan Clark Productions, and",
+              "timestamp": "2022-11-05T18:29:37Z"
+          },
+          {
+              "ns": 0,
+              "title": "Batman v Superman: Dawn of Justice",
+              "pageid": 2619910,
+              "size": 200986,
+              "wordcount": 19983,
+              "snippet": "<span class=\"searchmatch\">Batman</span> v Superman: Dawn of Justice is a 2016 American superhero film based on <span class=\"searchmatch\">the</span> DC Comics characters <span class=\"searchmatch\">Batman</span> and Superman. Distributed by Warner Bros",
+              "timestamp": "2022-11-06T01:35:53Z"
+          },
+          {
+              "ns": 0,
+              "title": "Batman in film",
+              "pageid": 11557106,
+              "size": 163515,
+              "wordcount": 13278,
+              "snippet": "Finger, <span class=\"searchmatch\">the</span> character first starred in two serial films in <span class=\"searchmatch\">the</span> 1940s: <span class=\"searchmatch\">Batman</span> and <span class=\"searchmatch\">Batman</span> and Robin. <span class=\"searchmatch\">The</span> character also appeared in <span class=\"searchmatch\">the</span> 1966 film <span class=\"searchmatch\">Batman</span>, which",
+              "timestamp": "2022-10-27T01:03:00Z"
+          },
+          {
+              "ns": 0,
+              "title": "Batman (disambiguation)",
+              "pageid": 416866,
+              "size": 5890,
+              "wordcount": 640,
+              "snippet": "<span class=\"searchmatch\">batman</span> or <span class=\"searchmatch\">Batman</span> in Wiktionary, <span class=\"searchmatch\">the</span> free dictionary. <span class=\"searchmatch\">Batman</span> is a fictional superhero appearing in comic books published by DC Comics. <span class=\"searchmatch\">Batman</span> or <span class=\"searchmatch\">The</span> Batman",
+              "timestamp": "2022-10-24T01:03:30Z"
+          },
+          {
+              "ns": 0,
+              "title": "Batman (1989 film)",
+              "pageid": 4726,
+              "size": 90801,
+              "wordcount": 9616,
+              "snippet": "<span class=\"searchmatch\">Batman</span> is a 1989 superhero film based on <span class=\"searchmatch\">the</span> DC Comics character of <span class=\"searchmatch\">the</span> same name, created by Bob Kane and Bill Finger. Produced by Jon Peters and Peter",
+              "timestamp": "2022-10-30T16:51:24Z"
+          },
+          {
+              "ns": 0,
+              "title": "Batman Begins",
+              "pageid": 481605,
+              "size": 118742,
+              "wordcount": 10879,
+              "snippet": "<span class=\"searchmatch\">Batman</span> Begins is a 2005 superhero film directed by Christopher Nolan and written by Nolan and David S. Goyer. <span class=\"searchmatch\">The</span> film is based on <span class=\"searchmatch\">the</span> DC Comics character",
+              "timestamp": "2022-11-01T17:14:47Z"
+          },
+          {
+              "ns": 0,
+              "title": "Batman: Arkham",
+              "pageid": 39457179,
+              "size": 106882,
+              "wordcount": 6296,
+              "snippet": "<span class=\"searchmatch\">Batman</span>: Arkham (also known simply as Arkham) is a series of action-adventure video games based on <span class=\"searchmatch\">the</span> DC Comics character <span class=\"searchmatch\">Batman</span>, developed by Rocksteady",
+              "timestamp": "2022-10-31T08:05:44Z"
+          },
+          {
+              "ns": 0,
+              "title": "Batman: Arkham Knight",
+              "pageid": 42106513,
+              "size": 205643,
+              "wordcount": 17293,
+              "snippet": "Entertainment. Based on <span class=\"searchmatch\">the</span> DC Comics superhero <span class=\"searchmatch\">Batman</span>, it is <span class=\"searchmatch\">the</span> successor to <span class=\"searchmatch\">the</span> 2013 video game <span class=\"searchmatch\">Batman</span>: Arkham Origins, a direct sequel to <span class=\"searchmatch\">Batman</span>: Arkham City",
+              "timestamp": "2022-10-23T12:12:24Z"
+          },
+          {
+              "ns": 0,
+              "title": "Batman: The Animated Series",
+              "pageid": 171478,
+              "size": 148451,
+              "wordcount": 14426,
+              "snippet": "<span class=\"searchmatch\">Batman</span>: <span class=\"searchmatch\">The</span> Animated Series (often shortened as <span class=\"searchmatch\">Batman</span> TAS or BTAS) is an American superhero animated television series based on <span class=\"searchmatch\">the</span> DC Comics superhero",
+              "timestamp": "2022-10-30T17:25:09Z"
+          }
+      ]
+  }
+}
